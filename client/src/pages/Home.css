@@ -1,0 +1,21 @@
+
+
+.App {
+    text-align: center;
+  }
+  
+  div,button {
+    margin: 10px;
+  }
+  
+  .map-container {
+    width :1000px;
+    height: 1000px;
+  }
+
+  .flex-container { 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
